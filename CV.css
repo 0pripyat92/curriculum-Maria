@@ -123,18 +123,27 @@ a {
 }
 
 .iconwhats{
-  height: 33px; 
-  width: 33px;
+  height: 30px; 
+  width: 30px;
+  box-shadow: 1px 1px 4px black;
+  border-radius: 4px;
 } 
 
 .iconinsta {
   height: 30px; 
   width: 30px;
+  box-shadow: 1px 1px 4px black;
+  border-radius: 4px;
+
 }
 
 .iconlin {
   height: 30px; 
   width: 30px;
- 
+  box-shadow: 1px 1px 4px black;
+  border-radius: 4px;
 }
 
+.icons{
+  box-shadow: 3px 3px 7px  rgba(69, 69, 134, 0.37);
+}
