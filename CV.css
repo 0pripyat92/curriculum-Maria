@@ -56,7 +56,7 @@ li {
   width: 410px;
   height: 77.19715%;
   margin-left: 27px;
-  margin-top: 13.46%;
+  margin-top: 8.46%;
   font-size: 3;
 }
 
@@ -71,7 +71,7 @@ li {
 }
 .subtitulo {
   font-family: 'Raleway', sans-serif;
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 800;
   margin-block-start: 2.615385%;
   margin-block-end: 1.077%;
@@ -81,7 +81,7 @@ li {
 .info {
   font-family: 'Raleway', sans-serif;
   font-weight: 500;
-  font-size: 10px;
+  font-size: 11px;
   padding: 0;
   line-height: 1.5;
   text-align: left;
@@ -133,6 +133,3 @@ a {
  
 }
 
-section{
- 
-}
