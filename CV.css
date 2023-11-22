@@ -30,6 +30,7 @@ li {
   display: flexbox;
   height: 842px;
   width: 690px;
+  padding-bottom: 20px;
   background-color: white;
 }
 #nome {
