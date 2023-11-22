@@ -106,8 +106,9 @@ li {
 }
 button{
   border: 1px;
+  background-color: white;
   border-radius: 20px;
-  box-shadow: 3px 3px 7px  rgba(69, 69, 134, 0.37);
+  box-shadow: 1px 1px 4px  rgba(69, 69, 134, 0.37);
   padding: 7px;
 }
 
