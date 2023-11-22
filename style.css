@@ -16,13 +16,13 @@
   }
   
   section {
-    padding-left: 1rem;
+    padding-left: 2rem;
     margin-bottom: 0.8rem;
     display: grid;
   }
   
   p {
-    font: 400 1em/1.3rem 'Poppins', sans-serif;
+    font: 400 3em/1.3rem 'Poppins', sans-serif;
   }
   
   h4,
