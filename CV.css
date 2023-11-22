@@ -111,6 +111,11 @@ button{
   padding: 7px;
 }
 
+button:hover {
+  box-shadow: 2px 2px 5px grey;
+  background-color: rgba(176, 176, 247, 0.452);
+}
+
 a {
   text-decoration: none;
   color: black;
