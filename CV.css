@@ -26,7 +26,7 @@ li {
   
 }
 #folha {
-  
+  margin: auto;
   display: flexbox;
   height: 842px;
   width: 690px;
