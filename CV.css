@@ -35,11 +35,12 @@ li {
   position: relative;
   margin-left: 25px;
   margin-bottom: 1.5%;
-  background-color: rgb(1, 1, 29);
+  background-color: rgba(2, 2, 63, 0.822);
   height: 29.691211%;
   width: 220px;
   color: white;
   letter-spacing: 2.5px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.76);
 }
 #coluna1 {
   width: 160px;
@@ -102,7 +103,7 @@ li {
 button{
   border: 1px;
   border-radius: 20px;
-  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.39);
+  box-shadow: 3px 3px 10px  rgba(2, 2, 63, 0.493);
 }
 
 a {
