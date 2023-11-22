@@ -25,14 +25,15 @@ li {
   flex-flow: row wrap;
 }
 #folha {
+  
   display: flexbox;
   height: 842px;
-  width: 595px;
+  width: 690px;
   background-color: white;
 }
 #nome {
   position: relative;
-  margin-left: px;
+  margin-left: 25px;
   margin-bottom: 1.5%;
   background-color: rgb(1, 1, 29);
   height: 29.691211%;
@@ -97,8 +98,11 @@ li {
   font-family: 'Raleway', sans-serif;
 }
 button{
+  border: 1px;
   border-radius: 20px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.39);
 }
+
 a {
   text-decoration: none;
   color: black;
@@ -108,9 +112,12 @@ a {
 .iconwhats{
   height: 40px; 
   width: 40px;
-  padding: 0 0 -10 0;
-  margin-top: 0;
-  margin-bottom: -10 10 10 10;
+ 
+}
+.iconinsta {
+  columns:auto;
+  height: 37px; 
+  width: 37px;
   display: flex;
   align-items: flex-end;
 }
