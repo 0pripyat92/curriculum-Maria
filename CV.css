@@ -68,6 +68,7 @@ li {
   margin-block-start: 0;
   margin-block-end: 0.923%;
   letter-spacing: 2.4px;
+  padding-bottom: 6px;
   
 }
 
@@ -79,7 +80,9 @@ li {
   margin-block-start: 0;
   margin-block-end: 0.923%;
   letter-spacing: 2.4px;
-  padding-top: 30px;
+  padding-top: 20px;
+  padding-bottom: 6px;
+ 
 }
 .subtitulo {
   font-family: 'Raleway', sans-serif;
