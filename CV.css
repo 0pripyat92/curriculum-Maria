@@ -5,6 +5,7 @@
 
 body,
 html {
+  display: block;
   height: 100%;
   width: 100%;
   align-items: center;
@@ -12,7 +13,7 @@ html {
 }
 body {
   margin: 0;
-  background-color: black;
+  background-color: rgb(1, 1, 29);
   position: absolute;
   
 }
@@ -24,13 +25,14 @@ li {
   flex-flow: row wrap;
 }
 #folha {
+  display: flexbox;
   height: 842px;
   width: 595px;
   background-color: white;
 }
 #nome {
   position: relative;
-  margin-left: 25px;
+  margin-left: px;
   margin-bottom: 1.5%;
   background-color: rgb(1, 1, 29);
   height: 29.691211%;
@@ -102,3 +104,14 @@ a {
   color: black;
   
 }
+
+.iconwhats{
+  height: 40px; 
+  width: 40px;
+  padding: 0 0 -10 0;
+  margin-top: 0;
+  margin-bottom: -10 10 10 10;
+  display: flex;
+  align-items: flex-end;
+}
+
